@@ -7,7 +7,7 @@
             <h2 class="ml-4">Want to participate?</h2>
         </header>
 
-        <div class="mt-6">
+        <div class="mt-5">
             <textarea
                 name="body"
                 class="w-full text-sm focus:outline-none focus:ring"
